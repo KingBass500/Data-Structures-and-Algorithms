@@ -22,12 +22,11 @@ A beginner-friendly Python project demonstrating common data structures and algo
 No third-party Python packages are required.
 
 ## Run in VS Code
-1. Extract this project folder if you downloaded the ZIP.
-2. Open VS Code.
-3. Select **File → Open Folder** and choose `data-structures-algorithms`.
-4. Open `main.py`.
-5. Open **Terminal → New Terminal**.
-6. Run one of these commands:
+1. Open VS Code.
+2. Select **File → Open Folder** and choose `data-structures-algorithms`.
+3. Open `main.py`.
+4. Open **Terminal → New Terminal**.
+5. Run one of these commands:
 
    ```bash
    python main.py
